@@ -2,8 +2,7 @@
 
 <!--
 **umarbilalkhan/umarbilalkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![alt text](https://github.com/umarbilalkhan/giphy.gif?raw=true)
-
+<img src="https://github.com/umarbilalkhan/umarbilalkhan/blob/main/giphy.gif" >
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

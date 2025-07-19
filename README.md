@@ -29,41 +29,47 @@ GitHub, Vercel, Docker, Aiven, Supabase
 
 ---
 
-### 🧠 Currently Learning
+### 🚧 My Dev Journey & Goals
 
-- Building Transformer-based tools for pseudocode-to-code generation  
-- Performance optimization in large-scale React/Next apps  
-- Exploring WinUI and desktop-native .NET apps
+- 🚀 Started my journey building web UIs in plain HTML/CSS — now working with cutting-edge AI models  
+- 🧠 Passionate about making AI useful for everyday developers (code generation, automation, etc.)  
+- 🛠️ Built a full wedding planner platform from scratch with maps, e-cards & real-time data  
+- 🎯 2025 Goal: Build open-source tools that blend React + AI into real-world use cases  
+- 💬 I believe in writing clean code, mentoring juniors, and continuously learning  
 
 ---
 
-### 🤓 Fun Facts
+### ✨ Favorite Dev Tools
 
-- 💡 I debug in dark mode, because light attracts bugs  
-- 🧩 I love breaking down complex AI papers and turning them into working prototypes  
-- 🎮 I once taught pointers using a horse racing game  
-- ⚙️ I treat commit history like storytelling — clean, consistent, and clear
+- 🖥️ Code Editor: VS Code with GitHub Copilot & ChatGPT  
+- 🧪 Testing: Postman, Thunder Client, Jest  
+- 🌐 Hosting: Vercel, Railway, Firebase  
+- 🔒 Auth: JWT, Clerk.dev, Firebase Auth  
+- 💡 Designs: Figma → Tailwind  
+
+---
+
+### 💭 Quote I Love
+
+> *“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler*
 
 ---
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/umar-bilal-04b0b7286/)
-- 🌐 [Portfolio Website](https://personal-portfolio-ls9ytw.vercel.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/umar-bilal-04b0b7286/)  
+- 🌐 [Portfolio Website](https://personal-portfolio-ls9ytw.vercel.app/)  
 - ✉️ Email: Bumar1289@gmail.com
 
 ---
 
-### 📊 GitHub Stats
+### 🤔 Programming Interview Question
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umarbilalkhan&show_icons=true&theme=radical)
+**Q:** You have a function that randomly deletes half your code every time you save. How do you fix it?
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umarbilalkhan&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umarbilalkhan&theme=radical)
-
----
-
-### 🧩 Quote I Live By
-
-> *“First, solve the problem. Then, write the code.” – John Johnson*
+- 🔘 A) Debug the function  
+- 🔘 B) Turn off auto-save  
+- 🔘 C) Praise it as an AI-powered minimalist refactor tool  
+- ✅ D) Rename the function to `featureNotBug()` and ship it to production
+  
+Choose wisely. Every dev's journey starts with Ctrl+Z...

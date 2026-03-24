@@ -9,6 +9,14 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3500&pause=900&color=22C55E&center=true&vCenter=true&multiline=true&width=900&height=90&lines=Building+Fast%2C+Scalable+%26+Beautiful+Web+Experiences;Open+Source+%E2%80%A2+Clean+Code+%E2%80%A2+AI+for+Real+Products" alt="Animated tagline" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:22C55E,100:06B6D4&height=110&section=header&text=Welcome%20to%20my%20GitHub%20Universe&fontSize=30&fontColor=ffffff&animation=twinkling" alt="Animated header banner" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=umarbilalkhan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/umarbilalkhan?label=Followers&style=flat&color=0e75b6" alt="Followers" />
   <img src="https://img.shields.io/badge/Open%20to-Collaboration-22c55e" alt="Open to collaboration" />
@@ -20,7 +28,7 @@
 
 I’m a **professional Full Stack Web Developer** and AI enthusiast focused on building scalable, user-centered products that solve real problems.
 
-- 🎓 Fresh CS graduate from **FAST NUCES (2025)**
+- 🎓 CS graduate from **FAST NUCES (Class of 2025)**
 - 💻 Core stack: **React.js, Next.js, Node.js, Express.js, Tailwind CSS**
 - 🧠 AI tooling: **OpenAI, Transformers, Whisper, Streamlit**
 - 🎯 Mission: Build modern web experiences where clean engineering meets practical AI
@@ -33,7 +41,7 @@ I’m a **professional Full Stack Web Developer** and AI enthusiast focused on b
 C#, C++, C, HTML, CSS, JavaScript, Python, SQL
 
 ### 🧰 Frameworks & Technologies
-.NET, WinUI 3, Entity Framework, Next.js, React.js, Node.js, Express.js, Tailwind CSS
+.NET, WinUI 3, Entity Framework, Angular, Next.js, React.js, Node.js, Express.js, Tailwind CSS
 
 ### 🧠 AI & ML
 PyTorch, TensorFlow, OpenAI, Transformers, Whisper, Streamlit
@@ -55,11 +63,24 @@ GitHub, Vercel, Docker, Postman, Thunder Client, Jest, Railway, Figma
 
 ---
 
-## 🚧 Dev Journey & 2025 Goals
+## 🚧 Dev Journey & 2026 Goals
 
 - 🚀 Started with simple HTML/CSS pages and evolved into full-stack, AI-integrated systems
 - 🏗️ Built a complete wedding planner platform with maps, e-cards, and real-time data flows
-- 🌍 2025 Goal: Ship and contribute to open-source tools that combine **React + AI** for practical impact
+- 🌍 2026 Goal: Ship and contribute to open-source tools that combine **React + AI** for practical impact
+
+---
+
+## 📊 GitHub Pulse
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=umarbilalkhan&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umarbilalkhan&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umarbilalkhan&bg_color=0f172a&color=38bdf8&line=22c55e&point=f8fafc&area=true&hide_border=true" alt="Contribution graph" />
+</p>
 
 ---
 

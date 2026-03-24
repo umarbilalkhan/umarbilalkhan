@@ -28,7 +28,7 @@
 
 I’m a **professional Full Stack Web Developer** and AI enthusiast focused on building scalable, user-centered products that solve real problems.
 
-- 🎓 Fresh CS graduate from **FAST NUCES (2025)**
+- 🎓 CS graduate from **FAST NUCES (Class of 2025)**
 - 💻 Core stack: **React.js, Next.js, Node.js, Express.js, Tailwind CSS**
 - 🧠 AI tooling: **OpenAI, Transformers, Whisper, Streamlit**
 - 🎯 Mission: Build modern web experiences where clean engineering meets practical AI

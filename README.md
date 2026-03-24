@@ -1,3 +1,14 @@
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:22C55E,100:06B6D4&height=110&section=header&text=Welcome%20to%20my%20GitHub%20Universe&fontSize=30&fontColor=ffffff&animation=twinkling" alt="Animated header banner" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=umarbilalkhan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/umarbilalkhan?label=Followers&style=flat&color=0e75b6" alt="Followers" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-22c55e" alt="Open to collaboration" />
+</p>
+
 ### Hi there 👋 I'm Umar Bilal Khan
 
 <p align="center">
@@ -10,16 +21,6 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3500&pause=900&color=22C55E&center=true&vCenter=true&multiline=true&width=900&height=90&lines=Building+Fast%2C+Scalable+%26+Beautiful+Web+Experiences;Open+Source+%E2%80%A2+Clean+Code+%E2%80%A2+AI+for+Real+Products" alt="Animated tagline" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:22C55E,100:06B6D4&height=110&section=header&text=Welcome%20to%20my%20GitHub%20Universe&fontSize=30&fontColor=ffffff&animation=twinkling" alt="Animated header banner" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=umarbilalkhan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/umarbilalkhan?label=Followers&style=flat&color=0e75b6" alt="Followers" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-22c55e" alt="Open to collaboration" />
 </p>
 
 ---
